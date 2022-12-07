@@ -19,27 +19,27 @@ Información Basica
 
 <h3>VBA</h3>
 
-- [Ejercicio Ciclo Mientras que Recaudo](/aprendices/jhonSantander/actividades/vba/whileRecaudo/README.md)
+- [Ejercicio Ciclo Mientras que Recaudo](/actividades/vba/whileRecaudo/README.md)
 
-- [Ejercicio Ciclo mientras que buscador](/aprendices/jhonSantander/actividades/vba/whileBaseDatos/README.md)
+- [Ejercicio Ciclo mientras que buscador](/actividades/vba/whileBaseDatos/README.md)
 
-- [Ejercicio formulario en VBA](/aprendices/jhonSantander/actividades/vba/Formulario/README.md)
+- [Ejercicio formulario en VBA](/actividades/vba/Formulario/README.md)
 
 <h3>Dart</h3>
 
-- [Ejercicio en Dart](/aprendices/jhonSantander/actividades/dart/dartMetodos/README.md)
+- [Ejercicio en Dart](/actividades/dart/dartMetodos/README.md)
 
-- [Constructores y parametros](/aprendices/jhonSantander/actividades/dart/constructorParametros/README.md)
+- [Constructores y parametros](/actividades/dart/constructorParametros/README.md)
 
-- [Herencia en Dart](/aprendices/jhonSantander/actividades/dart/herencia/README.md)
+- [Herencia en Dart](/actividades/dart/herencia/README.md)
 
-- [Funciones manejo de cadenas para caracteres en Dart](/aprendices/jhonSantander/actividades/dart/manejoCadenasDart/README.md)
+- [Funciones manejo de cadenas para caracteres en Dart](/actividades/dart/manejoCadenasDart/README.md)
 
-- [Clase abstracta y metodo estatico](/aprendices/jhonSantander/actividades/dart/claseAbstractometodoStatic/README.md)
+- [Clase abstracta y metodo estatico](/actividades/dart/claseAbstractometodoStatic/README.md)
 
-- [Encapsulamiento - alcance public, private - metodos Setter y Getter](/aprendices/jhonSantander/actividades/dart/encapsulamiento/README.md)
+- [Encapsulamiento - alcance public, private - metodos Setter y Getter](/actividades/dart/encapsulamiento/README.md)
 
-- [Asociaciones](/aprendices/jhonSantander/actividades/dart/asociaciones/README.md)
+- [Asociaciones](/actividades/dart/asociaciones/README.md)
 
 - [Json, mapa y asincronismo](/aprendices/jhonSantander/actividades/dart/json/README.md)
 
