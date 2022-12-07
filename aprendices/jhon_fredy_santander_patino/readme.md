@@ -19,7 +19,7 @@ Información Basica
 
 <h3>VBA</h3>
 
-- [Ejercicio Ciclo Mientras que Recaudo](/actividades/vba/whileRecaudo/README.md)
+- [Ejercicio Ciclo Mientras que Recaudo](/aprendices/jhon_fredy_santander_patino/actividades/vba/whileRecaudo/README.md)
 
 - [Ejercicio Ciclo mientras que buscador](/actividades/vba/whileBaseDatos/README.md)
 
